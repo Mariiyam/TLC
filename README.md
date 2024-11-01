@@ -3,5 +3,6 @@ Install Python programming language (V 3.10.15) from the following link: https:/
 
 Install the needed python libraries: pip install pandas duckdb sqlalchemy matplotlib. 
 
-Download Postgres Database from: https://www.postgresql.org/download/
+Download Postgres Database from: https://www.postgresql.org/download/.
+
 Replace the username and password (in the third excercise code) with yours.
